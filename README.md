@@ -1,0 +1,2 @@
+# actor
+Generates Actor model
